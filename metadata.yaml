@@ -1,0 +1,29 @@
+_repo: My-Four-Years-in-Germany_7238
+creator:
+  author:
+    agent_name: Gerard, James W. (James Watson)
+    birthdate: 1867
+    deathdate: 1951
+    gutenberg_agent_id: '2390'
+    url: http://www.gutenberg.org/2009/agents/2390
+    wikipedia: http://en.wikipedia.org/wiki/James_W._Gerard
+description: ''
+gutenberg_bookshelf:
+- World War I
+- Bestsellers, American, 1895-1923
+- Germany
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7238'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany -- Foreign relations -- United States'
+- !lcc 'D501'
+- !lcsh 'United States -- Foreign relations -- Germany'
+- !lcsh 'World War, 1914-1918 -- Germany'
+title: My Four Years in Germany
+url: http://www.gutenberg.org/ebooks/7238
